@@ -1,0 +1,12 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 執行檔（Release 上傳用，不放入原始碼）
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+HKO_Rainfall_Downloader_v0.13.py
